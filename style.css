@@ -1,0 +1,18 @@
+<style>
+body {
+background-color: #D3D3D3;
+}
+*{
+font-family: 'Open Sans', sans-serif;
+}
+ul {
+width : 700px;
+padding: 20px;
+margin: 0px auto 0px auto;
+border-top: 3px inset #000;
+}
+li{
+display: inline;
+margin: 0px 3px;
+}
+</style>
